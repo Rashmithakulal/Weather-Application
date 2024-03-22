@@ -1,0 +1,1 @@
+Hello mates ! This is my Weather application web app created using Html, Css and JavaScript along with Open-Weather-Map-Api that helps us find the current weather of various cities all over the world. The Working is very simple, as the application takes the city name as an input from the user and generates the current weather conditions of that city by making use of Weather-Api.
